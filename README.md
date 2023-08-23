@@ -1,5 +1,10 @@
 # sanket-synechron
 
+Tech stack -
+Java 8 , springboot , springboot web
+maven
+restapi
+
 Design Considerations -
 1. Design Principles: The SOLID principles, especially the Single Responsibility Principle, have been followed in separating the concerns of translating and counting words.
 2. Design Patterns: In this case, no specific design patterns are required, but the WordCounter follows the principles of encapsulation and separation of concerns.
